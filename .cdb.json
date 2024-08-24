@@ -1,0 +1,19 @@
+{
+    "content_warnings": [],
+    "dev_state": "ACTIVELY_DEVELOPED",
+    "donate_url": "https://github.com/sponsors/JoseDouglas26",
+    "forums": null,
+    "issue_tracker": "https://github.com/JoseDouglas26/more_mclx_fences/issues",
+    "license": "MIT",
+    "long_description": "# More mclx_fences (more_mclx_fences)\n## Description\nAdds fences and fence gates with bark textures for logs and hyphae. Despite using bark textures, the crafting recipe uses log/hypha blocks. Fences with bark can be stripped with axes. Hyphae fences are not flammable and cannot be used as fuel.\n### Crafting\nThe crafting recipe for bark fences follows the same crafting format as plank fences, replacing planks with equivalent logs/hyphae.",
+    "media_license": "MIT",
+    "name": "more_mclx_fences",
+    "repo": "https://github.com/JoseDouglas26/more_mclx_fences",
+    "short_description": "Adds fences and fence gates with bark textures for logs and hyphae.",
+    "tags": ["building", "decorative"],
+    "title": "More mclx_fences",
+    "translation_url": null,
+    "type": "MOD",
+    "video_url": null,
+    "website": null
+}
