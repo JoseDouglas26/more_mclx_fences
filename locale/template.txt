@@ -1,6 +1,9 @@
 # textdomain: more_mclx_fences
 
-@1 Bark Fence=
-@1 Bark Fence Gate=
+More mclx_fences =
+Adds fences and fence gates with bark textures for logs and hyphae. =
+
+@1 Wood Fence=
+@1 Wood Fence Gate=
 Stripped @1 Wood Fence=
 Stripped @1 Wood Fence Gate=

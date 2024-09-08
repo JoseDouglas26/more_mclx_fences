@@ -1,0 +1,9 @@
+# textdomain: more_mclx_fences
+
+More mclx_fences =Mais mclx_fences
+Adds fences and fence gates with bark textures for logs and hyphae. =Adiciona cercas e portões de cerca com textura de casca de troncos e hifas.
+
+@1 Wood Fence=Cerca de Madeira de @1
+@1 Wood Fence Gate=Portão de Madeira de @1
+Stripped @1 Wood Fence=Cerca de Madeira de @1 Descascada
+Stripped @1 Wood Fence Gate=Portão de Madeira de @1 Descascada
